@@ -1,33 +1,17 @@
-# Day 2 Lesson 1: CSS Selectors and Reference Materials
+# CSS Diner Menu
 
-[Part 1 -- CSS Sector Activity]()
-[Part 2 -- CSS Diner ]()
-
---------------
-
-# Part 1: CSS Diner Selectors!
-
-For this activity, you will learn to use a variety of css selectors.
-
-Go to [flukeout.github.io](https://flukeout.github.io/) to start !
-
-
---------------
-
-# Part 2: CSS Diner Styling.
-
-Now that you have some additional selecting experience under your belt, lets get to work!
 
 Your good friend has tried to make a website for a sushi restaurant, but they ended up making a complete mess of it :persevere: .
+
+## Instructions
 
 Open the `diner.html` file and give it a look in the preview--it's totally unusable. Let's add some style that can make it easy to view and use.
 
 Be sure to use your references! For each design task, you will need to find the right property and use it correctly!
-+ [List of CSS Properties]()
-+ [List of CSS selectors]()
+<!-- + [List of CSS Properties]()
++ [List of CSS selectors]() -->
 
 --------------
-
 
 ## Restyling Directions
 
