@@ -43,7 +43,7 @@ Did you know that elements can have multiple class names? In line 18, for exampl
 
 ` <div class="group featured">`
 
-+ Give elements that have BOTH the **group** class and the **featured** class a specially colored background [hint](https://css-tricks.com/multiple-class-id-selectors/)
++ Give elements that have BOTH the **group** class and the **featured** class a specially colored background. [Hint](https://css-tricks.com/multiple-class-id-selectors/)
 
 
 Stop and notice that at this point, there are *two* different CSS selectors that are telling the featured div to have a different colored background color. Since the one with multiple class names is more specific, however, its styles will override, or 'cascade' over the selector with just `.group {...}`
