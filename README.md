@@ -19,9 +19,9 @@ Be sure to use your references! For each design task, you will need to find the 
 
 For starters, the images are *way* too large and are preventing us from seeing any of the content.
 
-+ Set the `max-width` of all the image elements to something much more manageable, like `400px`
++ Set the `max-width` of all the image elements to something much more manageable, like `400px`.
 
-Phew, much better. Even with the images sized down, however, it's hard to see where all the elements being and end.
+Phew, much better. Even with the images sized down, however, it's hard to see where all the elements begin and end.
 
 + Just for now, give **everything** a small red border using the "universal selector"
 
@@ -34,12 +34,12 @@ Let's make our site more beautiful with a little leg work.
 + Give every **div** element a solid black `border`
 + Set the `background-color` of the **body**.
 + The descriptions can run on too long. Give every element with the "description" class a  `width` value that keeps them about as wide as the images.
-+ It's hard to tell how things are arranged on the page the way the owner wants them to be: give every member of the "group" class a `background-color` and a `border`
++ It's hard to tell how things are arranged on the page the way the owner wants them to be: give every member of the "group" class a `background-color` and a `border`.
 +  The "group" class members still feel a little stuffy: give them a few pixels of `padding` to separate their content from their borders and a nice `margin`  of `20px` to give them some elbow room from one another.
 
 ### Elements with multiple classes
 
-Did you know that elements can have multiple class names? In line 18, for example, you will see a div that has a class attribute of "group featured", and because class names can't have spaces, this element has the **group** class, as well as the the **featured** class.:
+Did you know that elements can have multiple class names? In line 18, for example, you will see a div that has a class attribute of "group featured", and because class names can't have spaces, this element has the **group** class, as well as the the **featured** class:
 
 ` <div class="group featured">`
 
@@ -52,9 +52,9 @@ Stop and notice that at this point, there are *two* different CSS selectors that
 
 So far, we've made some good changes, but the font is still UGLY.
 
-+ Select all the **h1** AND **h3** tags with one selector and change the `font-family` to "Helvetica".
++ Select all the **h1** AND **h3** tags with one selector and change the `font-family` to "Inconsolata".
 
-Ok, 'Helvetica' is a little better, but it's still not great.
+Ok, 'Inconsolata' is a little better, but it's still not great.
 + Go to [Google Fonts](https://fonts.google.com/)
 + Add a font by clicking the `+` symbol
 + follow the directions on the tab to add the font to your page
