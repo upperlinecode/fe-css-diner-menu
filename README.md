@@ -12,6 +12,11 @@ Be sure to use your references! For each design task, you will need to find the 
 + [List of CSS selectors]() -->
 
 --------------
+## Want to Try Without Any Instructions?
+This is what your Menu should look like (feel free to change colors or add more!). Read on below if you need step-by-step help!
+
+![menu](https://s3.amazonaws.com/upperline/curriculum-assets/css/menu.jpg)
+
 
 ## Restyling Directions
 
