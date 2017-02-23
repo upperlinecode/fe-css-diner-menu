@@ -1,0 +1,58 @@
+img {
+  max-width: 300px;
+  border-radius: 20px;
+}
+
+/** {
+  border: 1px solid red;
+}*/
+
+/*div {
+  border: 1px solid black;
+}*/
+
+body {
+  background-color: #050F2F;
+  text-align: center;
+}
+
+h2, h3, p, a {
+  color: lightgrey;
+}
+
+.description {
+  display: block;
+  margin: 30px auto;
+  width: 400px;
+}
+
+.group {
+  background-color: #0F000F;
+  border: 2px solid lightgrey;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.group.featured {
+  background-color: #312031;
+}
+
+h1, h2, h3 {
+  font-family: helvetica;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  font-family: helvetica;
+}
+
+.item-container {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px;
+}
