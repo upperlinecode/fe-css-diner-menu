@@ -12,6 +12,11 @@ Be sure to use your references! For each design task, you will need to find the 
 + [List of CSS selectors]() -->
 
 --------------
+## Want to Try Without Any Instructions?
+This is what your Menu should look like (feel free to change colors or add more!). Read on below if you need step-by-step help!
+
+![menu](https://s3.amazonaws.com/upperline/curriculum-assets/css/menu.jpg)
+
 
 ## Restyling Directions
 
@@ -31,11 +36,14 @@ Ok, now we can see where all the elements start and end, which is nice to know a
 
 Let's make our site more beautiful with a little leg work.
 
-+ Give every **div** element a solid black `border`
++ Give every **div** element a solid black `border` (you can get rid of this later)
 + Set the `background-color` of the **body**.
++ Round off the corners of the images using the `border-radius property`
 + The descriptions can run on too long. Give every element with the "description" class a  `width` value that keeps them about as wide as the images.
 + It's hard to tell how things are arranged on the page the way the owner wants them to be: give every member of the "group" class a `background-color` and a `border`.
-+  The "group" class members still feel a little stuffy: give them a few pixels of `padding` to separate their content from their borders and a nice `margin`  of `20px` to give them some elbow room from one another.
++ Center all headings and images on the page using text-align in the "group" class.
++ The "group" class members still feel a little stuffy: give them a few pixels of `padding` to separate their content from their borders and a nice `margin` of `20px` to give them some elbow room from one another. (We'll learn more about margin and padding later on.)
+
 
 ### Elements with multiple classes
 
@@ -45,7 +53,6 @@ Did you know that elements can have multiple class names? In line 18, for exampl
 
 + Give elements that have BOTH the **group** class and the **featured** class a specially colored background [hint](https://css-tricks.com/multiple-class-id-selectors/)
 
-
 Stop and notice that at this point, there are *two* different CSS selectors that are telling the featured div to have a different colored background color. Since the one with multiple class names is more specific, however, its styles will override, or 'cascade' over the selector with just `.group {...}`
 
 ## Multiple types of elements.
@@ -54,7 +61,7 @@ So far, we've made some good changes, but the font is still UGLY.
 
 + Select all the **h1** AND **h3** tags with one selector and change the `font-family` to "Inconsolata".
 
-Ok, 'Inconsolata' is a little better, but it's still not great.
+Ok, 'Inconsolata' is a little better, but may not be what you're after.
 + Go to [Google Fonts](https://fonts.google.com/)
 + Add a font by clicking the `+` symbol
 + follow the directions on the tab to add the font to your page
